@@ -27,5 +27,5 @@ https://www.kaggle.com/c/petfinder-adoption-prediction/data
 * Create web pages for data visualization and user interaction. Users can enter animal features or upload images directly to get a prediction of the animal's adoption.
 * (Optional)Apply GAN(Generative Adversarial Networks) as a data augmentation tool or struct a demo for entertainment.
 
-# Reference
+# References
 * Pet Statistics. (2020, February). Retrieved from https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics
