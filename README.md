@@ -5,7 +5,7 @@ Team Members:
 
 Xi Zhang, Siqi Jiang
 
-![image](https://github.com/f0000000x/Pet-Adoption-Prediction/blob/master/Images/Pets.jpeg)
+![image](https://github.com/f0000000x/Pet-Adoption-Prediction/blob/master/img/Pets.jpeg)
 
 # Motivation
 
