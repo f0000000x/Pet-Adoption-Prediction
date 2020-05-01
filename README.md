@@ -21,12 +21,32 @@ The goal of this project is to build a machine learning tool to predict how fast
 The data was released by petfind.my in Kaggle on December 27, 2018.
 https://www.kaggle.com/c/petfinder-adoption-prediction/data
 
-# Model Design(Preliminary)
+# Model & Result
+* Feature Importance : XGBoost & LightGBM
+![image](https://github.com/xzhangfox/Pet-Adoption-Prediction/blob/master/img/EDA/XGB.png)
 
-* Based on the characteristics of stray animals, linear models are used to predict adoption rates and to find ways to increase adoption rates.
-* Since cuteness cannot be accurately quantified by a limited set of features, it may be more accurate to use deep learning to process animals images directly.
-* Create web pages for data visualization and user interaction. Users can enter animal features or upload images directly to get a prediction of the animal's adoption.
-* (Optional)Apply GAN(Generative Adversarial Networks) as a data augmentation tool or struct a demo for entertainment.
+* Adoption Prediction: Turicreate - ResNet-50
+![image](https://github.com/xzhangfox/Pet-Adoption-Prediction/blob/master/img/EDA/NN.png)
+
+# Flow
+* Implementation & Adjustment
+![image](https://github.com/xzhangfox/Pet-Adoption-Prediction/blob/master/img/EDA/Flow.png)
+
+# Product Logic
+* Mini Demo
+![image](https://github.com/xzhangfox/Pet-Adoption-Prediction/blob/master/img/EDA/MiniDemo.png)
 
 # References
 * Pet Statistics. (2020, February). Retrieved from https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics
+
+* Apple. (2020, April 30). apple/turicreate. Retrieved from https://github.com/apple/turicreate
+
+* Keras. (2017, December 12). ResNet-50. Retrieved from https://www.kaggle.com/keras/resnet50
+
+* PetMe uses AI to drive dog adoptions. (n.d.). Retrieved from https://www.ddb.com.au/petme-uses-ai-to-drive-dog-adoptions
+
+* Liao, S. (2019, February 11). Baidu made a smart cat shelter that uses AI to tell cats and dogs apart. Retrieved from https://www.theverge.com/2019/2/11/18220606/baidu-smart-cat-shelter-ai-facial-recognition-dogs
+
+* Build software better, together. (n.d.). Retrieved from https://github.com/topics/object-detection
+
+
