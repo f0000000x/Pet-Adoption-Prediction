@@ -45,6 +45,8 @@ ax.set_xticklabels(
 plt.savefig(path + '/img/EDA/Correlation.png')
 plt.show()
 
+# Pearson must be captured by the normal distributed and
+
 # Scatter Plot ======================================================================================================= #
 fig, ax = plt.subplots(4, 5)
 for i in range(4):
