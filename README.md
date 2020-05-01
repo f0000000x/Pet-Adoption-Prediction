@@ -1,6 +1,6 @@
 # Pet Adoption Prediction
 [Track our process](https://trello.com/b/XnakVEjv/data-science-capstone-dats-6501siqi-jiang-xi-zhang) </br>
-Use machine learning to address the surplus of stray animals so that more animals in the shelter can find adopters, reducing euthanasia. Build user interfaces to raise awareness of stray animals.
+Use machine learning to address the surplus of stray animals so that more animals in the shelter can find adopters, reducing euthanasia. 
 
 Team Members:
 
